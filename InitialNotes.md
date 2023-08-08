@@ -2,9 +2,9 @@
 Could do many things.
 
 1. Grab Fixtures + Edit them
-2. Send email / notifications
-3. Calculate results and scoring and tables
-4. Grab Results and Compare them to Entries
+1. Send email / notifications
+1. Calculate results and scoring and tables
+1. Grab Results and Compare them to Entries
 1. Read in entries
 1. Post all info to webpage
 1. Allow entries to be made on webpage
