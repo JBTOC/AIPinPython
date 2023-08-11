@@ -17,3 +17,8 @@ Plumbing list...
 1. K8S infra. 
 1. Front end - web page. email scraper. phone app.
 
+## K8S
+Create docker image (use rancher)
+Find free service for running it
+create operator or just simple config?
+
